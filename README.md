@@ -25,12 +25,10 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 </div>
 
-<div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=JuanMa216&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanMa216)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JuanMa216&theme=material-palenight)](https://github.com/JuanMa216)
-</div>
 
 <div align = "center">
 	<h2>Connect with me!</h2>
